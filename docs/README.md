@@ -1,0 +1,1 @@
+Any notable documentation that isn't code can be put here, including diagrams, swagger, github artifacts and even version data written to a file.

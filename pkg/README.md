@@ -1,0 +1,1 @@
+Here is where any reusable code lives, anything that could be considered a library of sorts could go here and be imported across the ecosystem. Things like ORM models to interface with databases, kafka connection, logging, circuit breakers etc.
